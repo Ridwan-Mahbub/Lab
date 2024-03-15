@@ -1,2 +1,2 @@
-Total number of swaps in array 1: 8
-Total number of swaps in array 2: 8
+10
+1 7 9 10 11 14 16 18 19 22
