@@ -3,9 +3,9 @@
 // RecordType
 struct RecordType
 {
-	int		id;
-	char	name;
-	int		order;
+	int id;
+	char name;
+	int order;
 };
 
 // Fill out this structure
